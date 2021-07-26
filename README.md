@@ -1,3 +1,4 @@
+Hello ALL
 Welcome to the AWS CodeStar sample web service
 ==============================================
 
