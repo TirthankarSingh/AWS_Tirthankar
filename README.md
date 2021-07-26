@@ -1,4 +1,4 @@
-Hello ALL
+Hello ALL, learning
 Welcome to the AWS CodeStar sample web service
 ==============================================
 
